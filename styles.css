@@ -1,0 +1,30 @@
+.logo{
+    display: flex !important;
+    justify-content: space-between;
+    border-bottom: 2px solid gray;
+    padding:20px 0% !important;
+    align-items: center;
+}
+.left{
+    display: flex;
+}
+.icon{
+    margin-left: 10px;
+}
+.col-md-12 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0%;
+}
+.col-md-12 ul li{
+    text-transform: uppercase;
+    font-size: 12px;
+    
+}
+.nav-bar{
+    padding:0px 80px;
+}
+.logo .left .icon{
+    align-items: center;
+}
